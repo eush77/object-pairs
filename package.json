@@ -4,6 +4,9 @@
   "description": "Object -> [[key0, value0], [key1, value1]...]",
   "author": "Eugene Sharygin <eush77@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
   "homepage": "https://github.com/eush77/object-pairs",
   "repository": {
     "type": "git",
@@ -22,5 +25,8 @@
     "unzip"
   ],
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "cmpby": "^0.1.0",
+    "tape": "^3.0.3"
+  }
 }
