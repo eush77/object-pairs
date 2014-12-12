@@ -1,7 +1,9 @@
-# object-pairs [![Dependency Status][david-badge]][david]
+# object-pairs [![Build Status][travis-badge]][travis] [![Dependency Status][david-badge]][david]
 
 [![npm](https://nodei.co/npm/object-pairs.png)](https://nodei.co/npm/object-pairs/)
 
+[travis]: https://travis-ci.org/eush77/object-pairs
+[travis-badge]: https://travis-ci.org/eush77/object-pairs.svg
 [david]: https://david-dm.org/eush77/object-pairs
 [david-badge]: https://david-dm.org/eush77/object-pairs.png
 
