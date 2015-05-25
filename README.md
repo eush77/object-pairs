@@ -25,6 +25,12 @@ Turn an object into list of `[key, value]` pairs for mapping, iterating or other
 
 Return list of key-value pairs.
 
+## See also
+
+- [zipmap] for the opposite transformation.
+
+[zipmap]: https://github.com/landau/zipmap
+
 ## Install
 
 ```shell
